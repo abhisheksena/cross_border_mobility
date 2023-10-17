@@ -11,3 +11,4 @@ Python codes for reproducing the results presented in ["Estimating cross-border 
 
 `draft_data_coupling_inference.py` is the python script for generaing Figure 6.
 
+All the `.txt` files contained the model genrated data for calculating MLE
